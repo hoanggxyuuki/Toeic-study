@@ -1,5 +1,3 @@
-Here's your content converted to Markdown format:
-
 
 # TOEIC Learning Platform
 
