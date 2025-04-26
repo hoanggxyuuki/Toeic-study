@@ -41,7 +41,7 @@
    ```
 3. Cài đặt dependencies cho backend:
    ```bash
-   cd ../backend
+   cd backend
    npm install
    ```
 4. Cấu hình thư mục tài liệu:
