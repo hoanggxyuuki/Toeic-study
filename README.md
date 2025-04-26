@@ -104,18 +104,5 @@ toeic/
 5. Tạo Pull Request
 
 ## Tác giả
-[Tên tác giả] - Developer chính
+h4x0rc
 
-## Giấy phép
-Dự án này được cấp phép theo giấy phép [tên giấy phép] - xem tệp LICENSE.md để biết chi tiết.
-
-Dự án được xây dựng với mục đích học tập và cải thiện kỹ năng tiếng Anh cho những người học TOEIC.
-```
-
-Key improvements in the Markdown version:
-1. Added proper heading hierarchy (#, ##, ###)
-2. Formatted code blocks with triple backticks
-3. Added proper list formatting with dashes and asterisks
-4. Maintained the directory tree structure
-5. Added syntax highlighting for bash commands
-6. Improved overall readability with consistent spacing
